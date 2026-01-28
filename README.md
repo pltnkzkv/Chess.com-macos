@@ -5,6 +5,7 @@
 
 ## Install ##
 
-https://www.mediafire.com/file/k56b14ni3fp9rxj/Chess.com_unofficial_client.dmg/file
+[Dowland here
+](https://www.mediafire.com/file/o7vp4bwnbsp0zbo/Chess.com_unofficial_client.dmg/file)
 
 Just install and play!
