@@ -8,4 +8,7 @@
 [Dowland install file here
 ](https://www.mediafire.com/file/n19qa3oz5c0biup/Chess.com_unoffical_client.dmg/file)
 
-And enter into the terminal: codesign --deep --force --sign - /Applications/Chess.app xattr -rd com.apple.quarantine /Applications/Chess.app
+And we enter it sequentially into the terminal:
+codesign --deep --force --sign - /Applications/Chess.app
+#And#
+xattr -rd com.apple.quarantine /Applications/Chess.app
