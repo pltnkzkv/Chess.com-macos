@@ -5,7 +5,7 @@
 
 ## Install ##
 
-[Dowland here
+[Dowland install file here
 ](https://www.mediafire.com/file/n19qa3oz5c0biup/Chess.com_unoffical_client.dmg/file)
 
-Just install and play!
+And enter into the terminal: codesign --deep --force --sign - /Applications/Chess.app and  xattr -rd com.apple.quarantine /Applications/Chess.app
